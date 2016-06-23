@@ -1,16 +1,24 @@
 Bereich			Zone
-Bindedraht		????
-Schosse			?????
-Stammkopf		???
-Tragruten 		????
-Zapfen 			????
-Geschein		???? fleurs ?
-Wasserschoss	???
-Trieb			???
-Drahtrahmen		??? 
-Drahtbau		???
-Stickel
-Stickelbau
+Bindedraht		
+Bodenpflege
+Drahtbau		
+Drahtrahmen		
 erlesen
-einschlaufen
-heften
+einschlaufen	
+Geschein		
+Heftdraht
+Laubarbeiten
+Laubhefter
+Lorenzklammer
+Schneiden
+Schoss			pousse
+Stamm			tronc / cep
+Stammkopf		tête de souche
+Stickel			
+Stickelbau	
+Tragrute 		branche à fruit
+Trieb				
+Zapfen 			réserve/courson ("taille en/de courson")
+Wasserschoss	
+
+Pflanzenschutzmassnahmen mesures phytosanitaires
