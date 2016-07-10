@@ -1,24 +1,24 @@
-Bereich			Zone
-Bindedraht		
-Bodenpflege
-Drahtbau		
-Drahtrahmen		
-erlesen
-einschlaufen	
+Bereich			Zone, Domaine
+Bindedraht		fil porteur
+Bodenpflege		soins au sol
+Drahtbau		installation de soutien
+Drahtrahmen		entre le fils, dépend de la phrase, difficile à traduire 
+erlesen			ébourgeonner
+einschlaufen	mettre en fil
 Geschein		
-Heftdraht
-Laubarbeiten
-Laubhefter
-Lorenzklammer
-Schneiden
-Schoss			pousse
+Heftdraht		fil de palissage
+Laubarbeiten	travail de la feuille
+Laubhefter		palisseuse
+Lorenzklammer	écarteurs
+Schneiden		cisailler
+Schoss			pousse, rameau
 Stamm			tronc / cep
 Stammkopf		tête de souche
-Stickel			
-Stickelbau	
+Stickel			échalas 
+Stickelbau		
 Tragrute 		branche à fruit
-Trieb				
+Trieb			pousse	
 Zapfen 			réserve/courson ("taille en/de courson")
-Wasserschoss	
+Wasserschoss	gourmand
 
 Pflanzenschutzmassnahmen mesures phytosanitaires
