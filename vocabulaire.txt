@@ -5,20 +5,27 @@ Drahtbau		installation de soutien
 Drahtrahmen		entre le fils, dépend de la phrase, difficile à traduire 
 erlesen			ébourgeonner
 einschlaufen	mettre en fil
+Faselschosse	
 Geschein		
 Heftdraht		fil de palissage
 Laubarbeiten	travail de la feuille
 Laubhefter		palisseuse
 Lorenzklammer	écarteurs
+Rebringen		
 Schneiden		cisailler
 Schoss			pousse, rameau
+Sorte			?????? variété ????
 Stamm			tronc / cep
 Stammkopf		tête de souche
 Stickel			échalas 
 Stickelbau		
+Stock				
+Stockausschlag
 Tragrute 		branche à fruit
 Trieb			pousse	
-Zapfen 			réserve/courson ("taille en/de courson")
 Wasserschoss	gourmand
+Zapfen 			réserve/courson ("taille en/de courson")
+Zuchtholz		
+Zuchtschosse
 
 Pflanzenschutzmassnahmen mesures phytosanitaires
