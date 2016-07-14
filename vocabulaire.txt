@@ -1,29 +1,45 @@
+Assimilat
 Bereich			Zone, Domaine
 Bindedraht		fil porteur
+Blühverlauf
+Blüte
 Bodenpflege		soins au sol
 Drahtbau		installation de soutien
 Drahtrahmen		entre le fils, dépend de la phrase, difficile à traduire 
+einschlaufen		mettre en fil
 erlesen			ébourgeonner
-einschlaufen	mettre en fil
+Ertrag			
 Faselschosse	
-Geschein		
+Geiztrieb
+Geiztriebknospen
+Geschein		inflorescence
+Hagschere
 Heftdraht		fil de palissage
-Laubarbeiten	travail de la feuille
+kappen
+Laubarbeiten		travail de la feuille
 Laubhefter		palisseuse
-Lorenzklammer	écarteurs
+Laubschneider
+Lorenzklammer		écarteurs
+Rebe
 Rebringen		
 Schneiden		cisailler
+Scnittebene
 Schoss			pousse, rameau
+Sichel
 Sorte			?????? variété ????
 Stamm			tronc / cep
 Stammkopf		tête de souche
+Standraum		surface occupée
 Stickel			échalas 
 Stickelbau		
+Stielgerüst
 Stock				
 Stockausschlag
 Tragrute 		branche à fruit
+Traube			????? grappe ?????
 Trieb			pousse	
-Wasserschoss	gourmand
+Triebspitze
+Wasserschoss		gourmand
 Zapfen 			réserve/courson ("taille en/de courson")
 Zuchtholz		
 Zuchtschosse
