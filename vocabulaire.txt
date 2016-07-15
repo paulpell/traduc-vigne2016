@@ -1,4 +1,5 @@
 Assimilat
+auslauben
 Bereich			Zone, Domaine
 Bindedraht		fil porteur
 Blühverlauf
